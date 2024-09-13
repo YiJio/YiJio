@@ -1,11 +1,4 @@
-### Hello 👋.
-
-- 🛫 Airplanes & airports
-- 🚃 Road trips & travel
-- 📐 Design & development
-- 💻 Coding & gaming
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YiJio&theme=dark&hide_border=true&border_radius=4&card_width=560&card_height=200&ring=6EA5D780&fire=6EA5D7&sideNums=6EA5D7&currStreakNum=6EA5D7&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YiJio&theme=transparent&hide_border=true&border_radius=4&card_width=400&card_height=120&stroke=6EA5D780&ring=6EA5D780&fire=6EA5D7&sideNums=6EA5D7&currStreakNum=6EA5D7&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 
 <!--
 **YiJio/YiJio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
