@@ -23,13 +23,14 @@ jobs:
           base: header, activity, repositories, metadata
 
           config_timezone: America/Los_Angeles
+          config_padding: 0, 10 + 8%
           
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 20
           plugin_habits_languages_threshold: 0%
           
           plugin_languages: yes
