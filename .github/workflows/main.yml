@@ -19,7 +19,7 @@ jobs:
           # Options
           user: YiJio
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, community, repositories, metadata
 
           config_timezone: America/Los_Angeles
           config_padding: 0, 40 + 8%
@@ -33,6 +33,7 @@ jobs:
           plugin_habits_languages_threshold: 0%
           
           plugin_lines: yes
+          plugin_lines_skipped: YiJio, github-readme-stats
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
